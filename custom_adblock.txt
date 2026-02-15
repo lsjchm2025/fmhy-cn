@@ -1,0 +1,6 @@
+### 🛡️ 必备插件
+* [uBlock Origin](https://ublockorigin.com/) - **[唯一推荐]** 占用最低、效率最高的开源广告拦截插件。
+* [AdGuard 中文过滤器](https://github.com/AdguardTeam/AdguardFilters) - 建议在插件设置中手动开启中文规则。
+
+### 🌐 浏览器增强
+* [IDM (Internet Download Manager)](https://www.internetdownloadmanager.com/) - 网页资源嗅探的神器，下载视频极快。

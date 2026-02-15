@@ -1,0 +1,10 @@
+### 🔍 资源搜索引擎
+* [阿里盘搜](https://www.alipansou.com/) - 专注于阿里云盘，资源更新极快，UI 简洁。
+* [猫狸盘搜](https://www.maolipan.com/) - 资源丰富，搜索结果精准。
+* [小纸条](https://aipan.me/) - 社区驱动的资源分享站，资源质量极高。
+* [盘多多](http://www.panduoduo.net/) - 老牌百度网盘搜索引擎。
+
+### 🛠️ 云端管理与解析
+* [AList](https://alist.nn.ci/) - **[必装神器]** 将阿里云、百度、夸克、OneDrive 等挂载为本地硬盘。
+* [CloudDrive2](https://www.clouddrive2.com/) - 另一款强大的多网盘挂载工具。
+* [油猴脚本 (Tampermonkey)](https://www.tampermonkey.net/) - 配合各种网盘助手脚本，实现直接下载和解析。

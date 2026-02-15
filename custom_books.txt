@@ -1,0 +1,19 @@
+### 📖 电子书综合搜索 (首选)
+* [鸠摩搜书 (Jiumo Search)](https://www.jiumodiary.com/) - **[必备]** 国内最强大的电子书聚合搜索引擎，涵盖网盘、微盘及各种格式。
+* [安娜的档案 (Anna's Archive)](https://zh.annas-archive.org/) - 全球最大的影子图书馆镜像站，整合了 Z-Library、Library Genesis 和 Sci-Hub。
+* [Z-Library 官方入口](https://singlelogin.re/) - 全球最知名的电子书库（如失效请关注其官方 Telegram 机器人）。
+* [书格 (Shuge)](https://shuge.org/) - 一个开放的古籍数字化图书馆，专注于精美的古籍扫描版。
+
+### 🎨 漫画与轻小说
+* [拷贝漫画 (CopyManga)](https://www.copymanga.site/) - **[推荐]** 目前中文圈资源最全、更新最快的在线漫画站。
+* [轻之国度 (LK)](https://www.lightnovel.us/) - 国内最大的轻小说论坛及在线阅读平台。
+* [动漫之家 (DMZJ)](https://www.dmzj.com/) - 经典的漫画阅读平台（建议查看网页版或社区版）。
+
+### 🎓 学术文献与专业书
+* [库问搜索](http://www.koovin.com/) - 免费下载学术论文、期刊和各种专业文献。
+* [读秀/超星互助](https://www.ucdrs.superlib.net/) - 寻找稀缺中文教材、专业书籍的终极去处。
+* [Sci-Hub](https://sci-hub.se/) - 全球科研论文免费下载神器。
+
+### 📝 常用工具
+* [Calibre](https://calibre-ebook.com/) - **[开源]** 最强大的本地电子书管理与格式转换工具（PC端）。
+* [Koodo Reader](https://koodo.reader.cx/) - 一款高颜值的跨平台电子书阅读器，支持多种格式。

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>FMHY 中文版</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  
+  <style>
+    /* 仿 FMHY 风格的 CSS 微调 */
+    :root {
+      --theme-color: #42b983; /* 经典的绿色点缀 */
+      --base-font-size: 16px;
+    }
+    nav.app-nav {
+      margin: 20px 50px 0 0;
+    }
+    .markdown-section h1 { font-size: 2rem; border-bottom: 1px solid #333; padding-bottom: 10px; }
+    .markdown-section h2 { margin-top: 2em; color: var(--theme-color); }
+    .sidebar-nav li > a { font-weight: bold; }
+    /* 调整图片和链接样式 */
+    a { text-decoration: none; transition: color 0.3s; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div id="app">正在努力加载资源...</div>
+  <script>
+    window.$docsify = {
+      name: 'FMHY 中文版',
+      repo: 'lsjchm2025/fmhy-cn',
+      loadSidebar: true, // 必须有 _sidebar.md
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      subMaxLevel: 2,
+      auto2top: true,
+      executeScript: true,
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: '🔍 搜索资源...',
+        noData: '找不到结果',
+        depth: 4
+      },
+      // 侧边栏折叠插件配置
+      sidebarDisplay: 'auto', 
+      copyCode: {
+        buttonText : '复制',
+        errorText  : '错误',
+        successText: '已复制'
+      }
+    }
+  </script>
+
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+### 📥 下载利器
+* [Motrix](https://motrix.app/) - **[开源推荐]** 界面极简，支持 HTTP、FTP、BT、磁力链接。
+* [比特彗星 (BitComet)](https://www.bitcomet.com/) - 老牌工具，拥有长效种子功能，对死链较多的资源有奇效。
+* [Gopeed](https://gopeed.com/) - 支持全平台、全协议的高速下载器，开源纯净。
+
+### 💻 系统与硬件工具
+* [HelloWindows](https://hellowindows.cn/) - 最美观的 Windows 原版镜像下载站，告别修改版。
+* [图吧工具箱](http://www.tbtool.cn/) - 电脑装机、检测、拷机的一站式工具合集。
+* [Rufus](https://rufus.ie/) - 制作系统启动 U 盘的最佳开源小工具。
